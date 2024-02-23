@@ -18,7 +18,6 @@ Let me tell you a bit about myself <br>📚 Pursuing Master's in Computer Applic
 ## 📺 Latest Project Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UChZYRiaWqNwYjDwdTOMzv9Q?sub_confirmation=1)
