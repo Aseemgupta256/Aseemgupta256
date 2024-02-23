@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGKN0iPlOkqnA/profile-displaybackgroundimage-shrink_350_1400/0/1663756779070?e=1714003200&v=beta&t=_xVmWvIM86Cs0pdw3h4RzG2VqQ3RAIdll_uF8iDDg7U)](https://www.linkedin.com/in/aseemdev/)
 # 🏄‍♂️ About Me:
-<img align="right" alt="Coding" height="220" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/516991iCDD155007B7F6A91">
+<img align="right" alt="Coding" height="200" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/516991iCDD155007B7F6A91">
 
 **`Full Stack Developer (DSA/Frontend/Backend)`**
 
