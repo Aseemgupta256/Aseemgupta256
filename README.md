@@ -1,5 +1,9 @@
+
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGKN0iPlOkqnA/profile-displaybackgroundimage-shrink_350_1400/0/1663756779070?e=1714003200&v=beta&t=_xVmWvIM86Cs0pdw3h4RzG2VqQ3RAIdll_uF8iDDg7U)](https://www.linkedin.com/in/aseemdev/)
-# 🏄‍♂️ About Me:
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aseemgupta256.Aseemgupta256" />
+
+## 🏄‍♂️ About Me:
 <img align="right" alt="Coding" height="200" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/516991iCDD155007B7F6A91">
 
 **`Full Stack Developer (DSA/Frontend/Backend)`**
@@ -31,9 +35,14 @@ Let me tell you a bit about myself <br>📚 Pursuing Master's in Computer Applic
 #
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aseemgupta256&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aseemgupta256&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aseemgupta256&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseemgupta256&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aseemgupta256&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aseemgupta256&theme=highcontrast&hide_border=false" alt="GitHub Streak Stats">
+</p>
 
 #
 
@@ -41,4 +50,6 @@ Let me tell you a bit about myself <br>📚 Pursuing Master's in Computer Applic
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aseemgupta256&icon=5&color=5)](https://visitcount.itsvg.in)
+ <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&&pause=1000&color=F70000&size=20&center=true&vCenter=true&width=500&height=40&duration=4000&lines=Made+With+❤️‍🩹+by+Aseem!;+Signing+Off,+Good+Bye+:);" />
+</p>
