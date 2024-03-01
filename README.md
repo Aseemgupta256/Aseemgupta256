@@ -36,12 +36,12 @@ Let me tell you a bit about myself <br>📚 Pursuing Master's in Computer Applic
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseemgupta256&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Aseemgupta256&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Aseemgupta256&theme=highcontrast&hide_border=false" alt="GitHub Streak Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aseemgupta256&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aseemgupta256&theme=highcontrast&hide_border=false" alt="GitHub Streak Stats">
+  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aseemgupta256&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
 #
