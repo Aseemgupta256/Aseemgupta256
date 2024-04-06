@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQGWpgzN9dqtGQ/profile-displaybackgroundimage-shrink_350_1400/0/1710417079715?e=1715817600&v=beta&t=f8qUesfJ1YMelWoicBsErrFVslFzjXIs8o-GPaA8HEg)](https://www.linkedin.com/in/aseemdev/)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEa6GCBSHr6jA/profile-displaybackgroundimage-shrink_350_1400/0/1710447107969?e=1717632000&v=beta&t=oOXjsTskQWJICnbaZANL6pysTKgEk0dD230M2psUn8M)](https://www.linkedin.com/in/aseemdev/)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aseemgupta256.Aseemgupta256" />
 
