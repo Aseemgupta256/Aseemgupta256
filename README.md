@@ -23,12 +23,7 @@ Let me tell you a bit about myself <br>📚 Pursuing Master's in Computer Applic
 ### 📺 Latest Projects Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Uncle Larry](https://ytcards.demolab.com/?id=hoeEHuTq3aM&title=Uncle+Larry&lang=en&timestamp=1701633010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Uncle Larry")](https://www.youtube.com/watch?v=hoeEHuTq3aM)
-[![hospital api project](https://ytcards.demolab.com/?id=YnsNrVXOVwA&title=hospital+api+project&lang=en&timestamp=1683999936&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "hospital api project")](https://www.youtube.com/watch?v=YnsNrVXOVwA)
-[![ISSUE TRACKER PROJECT](https://ytcards.demolab.com/?id=jMPLLVkS9Ps&title=ISSUE+TRACKER+PROJECT&lang=en&timestamp=1683999811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ISSUE TRACKER PROJECT")](https://www.youtube.com/watch?v=jMPLLVkS9Ps)
-[![Employee Review System Project](https://ytcards.demolab.com/?id=vQ5YmQgqRaE&title=Employee+Review+System+Project&lang=en&timestamp=1683999679&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Employee Review System Project")](https://www.youtube.com/watch?v=vQ5YmQgqRaE)
-[![Coding Ninja Meals App Project](https://ytcards.demolab.com/?id=ypSNmdpzIsY&title=Coding+Ninja+Meals+App+Project&lang=en&timestamp=1678725128&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Ninja Meals App Project")](https://www.youtube.com/watch?v=ypSNmdpzIsY)
-[![Coding Ninjas Todo List Project](https://ytcards.demolab.com/?id=EHhfzFSf9Sw&title=Coding+Ninjas+Todo+List+Project&lang=en&timestamp=1678646828&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding Ninjas Todo List Project")](https://www.youtube.com/watch?v=EHhfzFSf9Sw)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UChZYRiaWqNwYjDwdTOMzv9Q?sub_confirmation=1)
