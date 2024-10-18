@@ -8,7 +8,7 @@
 
 **`Full Stack Developer (DSA/Frontend/Backend)`**
 
-Let me tell you a bit about myself <br>📚 Pursuing Master's in Computer Applications.<br>🌱 Learning C++ Data Structures and Algorithms.<br>💬 Ask me about anything in DSA, I'm happy to help.<br>📫 Mail me @Aseemgupts256@gmail.com
+👋 Hey, I’m Aseem<br>🚀 Google Cloud Associate Cloud Engineer certified.<br>🎓 Pursuing Master's in Computer Applications.<br>💻 Learning C++ DSA – ask me anything!<br>📩 Email: Aseemgupts256@gmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aseem._pvt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aseemdev) [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white
 )](https://wa.me/7570056795?text=Hi%20Aseem) [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=black
