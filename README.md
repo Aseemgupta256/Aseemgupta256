@@ -4,7 +4,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aseemgupta256.Aseemgupta256" />
 
 ## 🏄‍♂️ About Me:
-<img align="right" alt="Coding" height="200" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/516991iCDD155007B7F6A91">
+<img align="right" alt="Coding" height="200" src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/e2cb2bbc-ab7d-4e04-b268-e1ade4bbebca/Cozy+Home+Office">
 
 **`Full Stack Developer (DSA/Frontend/Backend)`**
 
